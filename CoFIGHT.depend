@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623946187 source:c:\users\viral\desktop\ds lab personal prac\project\covidresourcesportal_202001007_202001098\cofight\main.cpp
+	<iostream>
+	<string.h>
+
